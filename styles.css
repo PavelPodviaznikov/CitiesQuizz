@@ -1,0 +1,39 @@
+#container{
+	background-color: #ffe343;
+	height: 500px;
+	width: 800px;
+	margin: 30 auto;
+	text-align: center;
+	border-radius: 20px;
+}
+#title{
+	font-family: cursive;
+	color: #b350ff;
+	padding: 20px;
+	font-size: 25px;
+	border-radius: 20px;
+	text-decoration: underline;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+#question{
+	background-color: #74e3ff;
+	height: 100px;
+	width: 750px;
+	margin: 0 auto;
+	padding: 10px;
+	border-radius: 20px;
+}
+#answers{
+	margin: -5 auto;
+	width: 740px;
+	height: 280px;
+	background-color: white;
+	border-bottom: 20px;
+}
+.answer{
+	background-color: brown;
+	padding: 20px;
+	width: 680px;
+	margin: 5 auto;
+}
